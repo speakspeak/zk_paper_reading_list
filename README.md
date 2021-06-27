@@ -24,3 +24,68 @@
 |           |             |            |                            |
 |           |             |            |                            |
 
+
+### Familiarity rating
+
+**Level 0:** Haven't read this paper, and don't understand what this paper does.
+
+**Level 1:** Have read the abstruct and introduction of this paper. Understand the motivation and targets of this paper.
+
+**Level 2:** Understand main ideas of this paper and main methods used in this paper.
+
+**Level 3**: Have read the whole paper. Understand almost everything in this paper including the proving process.
+
+**Level 4:** Understand almost everything in this paper, and be able to  do a presentation to other people.
+
+### Member reading
+
+#### 陆涛
+
+| title     | familiarity |
+| --------- | ----------- |
+| LegoSNARK | Level 1     |
+|           |             |
+|           |             |
+
+
+
+#### 余瑞璟
+
+| title | familiarity |
+| ----- | ----------- |
+|       |             |
+|       |             |
+|       |             |
+
+
+
+#### 李唯贤
+
+| title | familiarity |
+| ----- | ----------- |
+|       |             |
+|       |             |
+|       |             |
+
+
+
+### Talk
+
+- No fixed time, just for better learning.
+
+- Serious, Limited to academic discussion.
+
+- Begin after two or more members are familiar with one paper (at least level 2).
+
+- Encourage every member to participate, but not mandatory.
+
+  
+
+#### Talk records
+
+| paper title | members | Familiarity with the paper | time |
+| ----------- | ------- | -------------------------- | ---- |
+|             |         |                            |      |
+|             |         |                            |      |
+|             |         |                            |      |
+
