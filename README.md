@@ -14,15 +14,36 @@
 
 ### Main Members:
 
-**陆涛、余瑞璟、李唯贤**
+**魏成坤、陆涛、余瑞璟、李唯贤**
 
 ### Paper List
 
-| title     | publication | motivation | relations with other paper |
-| --------- | ----------- | ---------- | -------------------------- |
-| LegoSNARK | CCS'19      | ...        | ...                        |
-|           |             |            |                            |
-|           |             |            |                            |
+| title       | publication        | motivation | relations with other papers |
+| ----------- | ------------------ | ---------- | --------------------------- |
+| LegoSNARK   | CCS'19             | ...        | ...                         |
+| zkDT        | CCS'20             | ...        | ...                         |
+| vCNN        | unpublished        | ...        | ...                         |
+| zkCNN       | unpublished        | ...        | ...                         |
+| ZEN         | unpublished        | ...        | ...                         |
+| VeriML      | TPDS'21            | ...        | ...                         |
+| SPARK       | EUROCRYPT'20       | ...        | ...                         |
+| GKR         | JACM'15            | ...        | ...                         |
+| Libra       | CRYPTO'19          | ...        | ...                         |
+| Spartan     | CRYPTO'20          | ...        | ...                         |
+| Virgo       | S&P'20             | ...        | ...                         |
+| Ligero      | CCS'17             | ...        | ...                         |
+| DIZK        | USENIX Security'18 | ...        | ...                         |
+| ZKBoo       | USENIX Security'16 | ...        | ...                         |
+| Aurora      | EUROCRYPT'18       | ...        | ...                         |
+| Ligero++    | CCS'20             | ...        | ...                         |
+| Groth       | EUROCRYPT'16       | ...        | ...                         |
+| BCCGP       | EUROCRYPT'16       | ...        | ...                         |
+| Bulletproof | S&P'17             | ...        | ...                         |
+| STARK       | unpublished        | ...        | ...                         |
+| BubbleRAM   | CCS'20             | ...        | ...                         |
+|             |                    |            |                             |
+|             |                    |            |                             |
+|             |                    |            |                             |
 
 
 ### Familiarity rating
