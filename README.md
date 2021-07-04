@@ -50,42 +50,44 @@
 
 **Level 0:** Haven't read this paper, and don't understand what this paper does.
 
-**Level 1:** Have read the abstract and introduction of this paper. Understand the motivation and targets of this paper.
+**Level 1:** Have read the "abstract" and "introduction" sections of this paper. Understand the motivation and targets of this paper.
 
-**Level 2:** Understand main ideas of this paper and main methods used in this paper.
+**Level 2:** Have read "preliminaries"  section of this paper. Comprehend all of the concepts mentioned in the "preliminaries" section.
 
-**Level 3**: Have read the whole paper. Understand almost everything in this paper including the proving process.
+**Level 3:** Understand main ideas of this paper and main methods used in this paper.
 
-**Level 4:** Understand almost everything in this paper, and be able to  do a presentation to other people.
+**Level 4:** Have read the whole paper. Understand almost everything in this paper including the proving process.
+
+**Level 5:** Understand almost everything in this paper, and be able to  do a presentation to other people.
 
 ### Members reading
 
-| title       | 魏成坤 | 陆涛      | 余瑞璟 | 李唯贤 |
-| ----------- | ------ | --------- | ------ | ------ |
-| LegoSNARK   |        | Level 1 + |        |        |
-| zkDT        |        |           |        |        |
-| vCNN        |        |           |        |        |
-| zkCNN       |        |           |        |        |
-| ZEN         |        |           |        |        |
-| VeriML      |        |           |        |        |
-| SPARK       |        |           |        |        |
-| GKR         |        | Level 1 + |        |        |
-| Libra       |        |           |        |        |
-| Spartan     |        |           |        |        |
-| Virgo       |        |           |        |        |
-| Ligero      |        |           |        |        |
-| DIZK        |        |           |        |        |
-| ZKBoo       |        |           |        |        |
-| Aurora      |        |           |        |        |
-| Ligero++    |        |           |        |        |
-| Groth       |        |           |        |        |
-| BCCGP       |        |           |        |        |
-| Bulletproof |        |           |        |        |
-| STARK       |        |           |        |        |
-| BubbleRAM   |        |           |        |        |
-|             |        |           |        |        |
-|             |        |           |        |        |
-|             |        |           |        |        |
+| title       | 魏成坤 | 陆涛    | 余瑞璟 | 李唯贤 |
+| ----------- | ------ | ------- | ------ | ------ |
+| LegoSNARK   |        | Level 1 |        |        |
+| zkDT        |        |         |        |        |
+| vCNN        |        |         |        |        |
+| zkCNN       |        |         |        |        |
+| ZEN         |        |         |        |        |
+| VeriML      |        |         |        |        |
+| SPARK       |        |         |        |        |
+| GKR         |        | Level 2 |        |        |
+| Libra       |        |         |        |        |
+| Spartan     |        |         |        |        |
+| Virgo       |        |         |        |        |
+| Ligero      |        |         |        |        |
+| DIZK        |        |         |        |        |
+| ZKBoo       |        |         |        |        |
+| Aurora      |        |         |        |        |
+| Ligero++    |        |         |        |        |
+| Groth       |        |         |        |        |
+| BCCGP       |        |         |        |        |
+| Bulletproof |        |         |        |        |
+| STARK       |        |         |        |        |
+| BubbleRAM   |        |         |        |        |
+|             |        |         |        |        |
+|             |        |         |        |        |
+|             |        |         |        |        |
 
 
 
