@@ -66,17 +66,17 @@
 | ----------- | ------ | ------- | ------ | ------ |
 | LegoSNARK   |        | Level 1 |        |        |
 | zkDT        |        |         |        |        |
-| vCNN        |        |         |        |        |
+| vCNN        |        | Level 3 |        |        |
 | zkCNN       |        |         |        |        |
 | ZEN         |        |         |        |        |
 | VeriML      |        |         |        |        |
-| SPARK       |        |         |        |        |
+| SPARK       |        | Level 3 |        |        |
 | GKR         |        | Level 2 |        |        |
 | Libra       |        |         |        |        |
 | Spartan     |        |         |        |        |
 | Virgo       |        |         |        |        |
 | Ligero      |        |         |        |        |
-| DIZK        |        |         |        |        |
+| DIZK        |        | Level 1 |        |        |
 | ZKBoo       |        |         |        |        |
 | Aurora      |        |         |        |        |
 | Ligero++    |        |         |        |        |
