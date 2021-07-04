@@ -4,7 +4,7 @@
 
 - Papers of Zero Knowledge Proof are always very long and sometimes difficult to understand, which leads us to spend many days or even some weeks on reading one paper. Especially for some details of these papers, We usually cannot understand them very well immediately.  All of the above situations will wear down our confidence in continuous reading. Therefore, we need this plan to record which papers we have read and which papers we need to read next, and to record our patience and the sense of accomplishment.
 
-  
+
 
 - A good Paper Reading Plan help us organize the ideas and the relations of those papers. with the help of this plan, two or more persons can even read related different papers simultaneously base on some short comments which can be got easily from "Abstract" and "Introduction" sections in one paper . Therefore, this plan may shorten the reading cycle for our term.
 
@@ -58,35 +58,34 @@
 
 **Level 4:** Understand almost everything in this paper, and be able to  do a presentation to other people.
 
-### Member reading
+### Members reading
 
-#### 陆涛
-
-| title     | familiarity |
-| --------- | ----------- |
-| LegoSNARK | Level 1     |
-|           |             |
-|           |             |
-
-
-
-#### 余瑞璟
-
-| title | familiarity |
-| ----- | ----------- |
-|       |             |
-|       |             |
-|       |             |
-
-
-
-#### 李唯贤
-
-| title | familiarity |
-| ----- | ----------- |
-|       |             |
-|       |             |
-|       |             |
+| title       | 魏成坤 | 陆涛      | 余瑞璟 | 李唯贤 |
+| ----------- | ------ | --------- | ------ | ------ |
+| LegoSNARK   |        | Level 1 + |        |        |
+| zkDT        |        |           |        |        |
+| vCNN        |        |           |        |        |
+| zkCNN       |        |           |        |        |
+| ZEN         |        |           |        |        |
+| VeriML      |        |           |        |        |
+| SPARK       |        |           |        |        |
+| GKR         |        | Level 1 + |        |        |
+| Libra       |        |           |        |        |
+| Spartan     |        |           |        |        |
+| Virgo       |        |           |        |        |
+| Ligero      |        |           |        |        |
+| DIZK        |        |           |        |        |
+| ZKBoo       |        |           |        |        |
+| Aurora      |        |           |        |        |
+| Ligero++    |        |           |        |        |
+| Groth       |        |           |        |        |
+| BCCGP       |        |           |        |        |
+| Bulletproof |        |           |        |        |
+| STARK       |        |           |        |        |
+| BubbleRAM   |        |           |        |        |
+|             |        |           |        |        |
+|             |        |           |        |        |
+|             |        |           |        |        |
 
 
 
