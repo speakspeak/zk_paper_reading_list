@@ -65,7 +65,7 @@
 | title       | 魏成坤 | 陆涛    | 余瑞璟 | 李唯贤 |
 | ----------- | ------ | ------- | ------ | ------ |
 | LegoSNARK   |        | Level 1 |        |        |
-| zkDT        |        |         |        |        |
+| zkDT        |        |         |        |Level 4 |
 | vCNN        |        | Level 3 |        |        |
 | zkCNN       |        |         |        |        |
 | ZEN         |        |         |        |        |
@@ -73,7 +73,7 @@
 | SPARK       |        | Level 3 |        |        |
 | GKR         |        | Level 2 |        |        |
 | Libra       |        |         |        |        |
-| Spartan     |        |         |        |        |
+| Spartan     |        |         |        |Level 3 |
 | Virgo       |        |         |        |        |
 | Ligero      |        |         |        |        |
 | DIZK        |        | Level 1 |        |        |
