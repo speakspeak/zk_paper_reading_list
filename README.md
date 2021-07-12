@@ -70,14 +70,14 @@
 | zkCNN       |        |         |        |        |
 | ZEN         |        |         |        |        |
 | VeriML      |        |         |        |        |
-| SPARK       |        | Level 3 |        |        |
+| SPARK       |        | Level 3 | Level 3|        |
 | GKR         |        | Level 2 |        |        |
 | Libra       |        |         |        |        |
-| Spartan     |        |         |        |Level 3 |
-| Virgo       |        |         |        |        |
+| Spartan     |        |         | Level 3|Level 3 |
+| Virgo       |        |         | Level 3|        |
 | Ligero      |        |         |        |        |
-| DIZK        |        | Level 1 |        |        |
-| ZKBoo       |        |         |        |        |
+| DIZK        |        | Level 1 | Level 3|        |
+| ZKBoo       |        |         | Level 3|        |
 | Aurora      |        |         |        |        |
 | Ligero++    |        |         |        |        |
 | Groth       |        |         |        |        |
