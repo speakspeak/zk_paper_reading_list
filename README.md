@@ -78,7 +78,7 @@
 | Ligero      |        |         |        |        |
 | DIZK        |        | Level 1 | Level 3|        |
 | ZKBoo       |        |         | Level 3|        |
-| Aurora      |        |         |        |        |
+| Aurora      |        |         | Level 3|        |
 | Ligero++    |        |         |        |        |
 | Groth       |        |         |        |        |
 | BCCGP       |        |         |        |        |
