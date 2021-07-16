@@ -67,11 +67,11 @@
 | LegoSNARK   |        | Level 1 |        |        |
 | zkDT        |        |         |        |Level 4 |
 | vCNN        |        | Level 3 |        |        |
-| zkCNN       |        |         |        |        |
+| zkCNN       |        |         |        |Level 2 |
 | ZEN         |        |         |        |        |
 | VeriML      |        |         |        |        |
 | SPARK       |        | Level 3 | Level 3|        |
-| GKR         |        | Level 2 |        |        |
+| GKR         |        | Level 2 |        |Level 2 |
 | Libra       |        |         |        |        |
 | Spartan     |        |         | Level 3|Level 3 |
 | Virgo       |        |         | Level 3|        |
