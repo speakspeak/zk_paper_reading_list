@@ -74,7 +74,7 @@
 | GKR         |        | Level 2 |        |Level 2 |
 | Libra       |        |         |        |        |
 | Spartan     |        |         | Level 3|Level 3 |
-| Virgo       |        |         | Level 3|        |
+| Virgo       |        |         | Level 3|Level 3 |
 | Ligero      |        |         |        |        |
 | DIZK        |        | Level 1 | Level 3|        |
 | ZKBoo       |        |         | Level 3|        |
