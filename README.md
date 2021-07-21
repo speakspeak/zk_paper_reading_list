@@ -64,7 +64,7 @@
 
 | title       | 魏成坤 | 陆涛    | 余瑞璟 | 李唯贤 |
 | ----------- | ------ | ------- | ------ | ------ |
-| LegoSNARK   |        | Level 1 |        |        |
+| LegoSNARK   |        | Level 1 | Level 3|        |
 | zkDT        |        |         |        |Level 4 |
 | vCNN        |        | Level 3 |        |        |
 | zkCNN       |        |         |        |Level 2 |
