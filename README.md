@@ -18,32 +18,90 @@
 
 ### Paper List
 
-| title       | publication        | motivation | relations with other papers |
-| ----------- | ------------------ | ---------- | --------------------------- |
-| LegoSNARK   | CCS'19             | ...        | ...                         |
-| zkDT        | CCS'20             | ...        | ...                         |
-| vCNN        | unpublished        | ...        | ...                         |
-| zkCNN       | unpublished        | ...        | ...                         |
-| ZEN         | unpublished        | ...        | ...                         |
-| VeriML      | TPDS'21            | ...        | ...                         |
-| SPARK       | EUROCRYPT'20       | ...        | ...                         |
-| GKR         | JACM'15            | ...        | ...                         |
-| Libra       | CRYPTO'19          | ...        | ...                         |
-| Spartan     | CRYPTO'20          | ...        | ...                         |
-| Virgo       | S&P'20             | ...        | ...                         |
-| Ligero      | CCS'17             | ...        | ...                         |
-| DIZK        | USENIX Security'18 | ...        | ...                         |
-| ZKBoo       | USENIX Security'16 | ...        | ...                         |
-| Aurora      | EUROCRYPT'18       | ...        | ...                         |
-| Ligero++    | CCS'20             | ...        | ...                         |
-| Groth       | EUROCRYPT'16       | ...        | ...                         |
-| BCCGP       | EUROCRYPT'16       | ...        | ...                         |
-| Bulletproof | S&P'17             | ...        | ...                         |
-| STARK       | unpublished        | ...        | ...                         |
-| BubbleRAM   | CCS'20             | ...        | ...                         |
-|             |                    |            |                             |
-|             |                    |            |                             |
-|             |                    |            |                             |
+#### Main
+
+##### Linear PCP
+
+| title     | publication        | motivation | relations with other papers |
+| --------- | ------------------ | ---------- | --------------------------- |
+| LinearPCP | CCC'07             | ...        | ...                         |
+| GGPR      | EUROCRYPT'13       | ...        | ...                         |
+| BCI+      | TCC'13             | ...        | ...                         |
+| PGHR      | S&P‘13             | ...        | ...                         |
+| Groth     | EUROCRYPT'16       | ...        | ...                         |
+| BCGTV     | CRYPTO'13          | ...        | ...                         |
+| BCTV      | USENIX Security'14 | ...        | ...                         |
+|           |                    |            |                             |
+
+##### IOPs
+
+| title    | publication  | motivation | relations with other papers |
+| -------- | ------------ | ---------- | --------------------------- |
+| IPCP     | ICALP'07     | ...        | ...                         |
+| IOPs     | TCC'16       | ...        | ...                         |
+| Ligero   | CCS'17       | ...        | ...                         |
+| Aurora   | EUROCRYPT'18 | ...        | ...                         |
+| Fractal  | EUROCRYPT'20 | ...        | ...                         |
+| Virgo    | S&P'20       | ...        | ...                         |
+| Ligero++ | CCS'20       | ...        | ...                         |
+| STARK1   | unpublished  | ...        | ...                         |
+| STARK2   | CRYPTO'19    | ...        | ...                         |
+|          |              |            |                             |
+
+##### Discrete Log
+
+| title       | publication  | motivation | relations with other papers |
+| ----------- | ------------ | ---------- | --------------------------- |
+| BCCGP       | EUROCRYPT'16 | ...        | ...                         |
+| Bulletproof | S&P'17       | ...        | ...                         |
+|             |              | ...        | ...                         |
+
+##### IPs
+
+| title   | publication | motivation | relations with other papers |
+| ------- | ----------- | ---------- | --------------------------- |
+| GKR     | JACM'15     | ...        | ...                         |
+| Hyrax   | S&P'18      | ...        | ...                         |
+| Libra   | CRYPTO'19   | ...        | ...                         |
+| Spartan | CRYPTO'20   | ...        | ...                         |
+|         |             | ...        | ...                         |
+
+##### CRS
+
+| title      | publication  | motivation | relations with other papers |
+| ---------- | ------------ | ---------- | --------------------------- |
+| GKM+       | CRYPTO'18    | ...        | ...                         |
+| Sonic      | CCS'19       | ...        | ...                         |
+| Plonk      | unpublished  | ...        | ...                         |
+| Marlin     | EUROCRYPT'20 | ...        | ...                         |
+| SuperSonic | EUROCRYPT'20 | ...        | ...                         |
+|            |              | ...        | ...                         |
+
+
+
+#### Other
+
+| title     | publication        | motivation | relations with other papers |
+| --------- | ------------------ | ---------- | --------------------------- |
+| LegoSNARK | CCS'19             | ...        | ...                         |
+| SPARK     | EUROCRYPT'20       | ...        | ...                         |
+| ZKBoo     | USENIX Security'16 | ...        | ...                         |
+| DIZK      | USENIX Security'18 | ...        | ...                         |
+| BubbleRAM | CCS'20             | ...        | ...                         |
+|           |                    | ...        | ...                         |
+
+
+
+#### Application
+
+| title  | publication | motivation | relations with other papers |
+| ------ | ----------- | ---------- | --------------------------- |
+| zkDT   | CCS'20      | ...        | ...                         |
+| vCNN   | unpublished | ...        | ...                         |
+| zkCNN  | unpublished | ...        | ...                         |
+| ZEN    | unpublished | ...        | ...                         |
+| VeriML | TPDS'21     | ...        | ...                         |
+|        |             |            |                             |
 
 
 ### Familiarity rating
@@ -62,32 +120,32 @@
 
 ### Members reading
 
-| title       | 魏成坤 | 陆涛    | 余瑞璟 | 李唯贤 |
-| ----------- | ------ | ------- | ------ | ------ |
-| LegoSNARK   |        | Level 1 | Level 3|        |
-| zkDT        |        |         |        |Level 4 |
-| vCNN        |        | Level 3 |        |        |
-| zkCNN       |        |         |        |Level 2 |
-| ZEN         |        |         |        |        |
-| VeriML      |        |         |        |        |
-| SPARK       |        | Level 3 | Level 3|        |
-| GKR         |        | Level 2 |        |Level 2 |
-| Libra       |        |         |        |        |
-| Spartan     |        |         | Level 3|Level 3 |
-| Virgo       |        |         | Level 3|Level 3 |
-| Ligero      |        |         |        |        |
-| DIZK        |        | Level 1 | Level 3|        |
-| ZKBoo       |        |         | Level 3|        |
-| Aurora      |        |         | Level 3|        |
-| Ligero++    |        |         |        |        |
-| Groth       |        |         |        |        |
-| BCCGP       |        |         |        |        |
-| Bulletproof |        |         |        |        |
-| STARK       |        |         |        |        |
-| BubbleRAM   |        |         |        |        |
-|             |        |         |        |        |
-|             |        |         |        |        |
-|             |        |         |        |        |
+| title       | 魏成坤 | 陆涛    | 余瑞璟  | 李唯贤  |
+| ----------- | ------ | ------- | ------- | ------- |
+| LegoSNARK   |        | Level 1 | Level 3 |         |
+| zkDT        |        |         |         | Level 4 |
+| vCNN        |        | Level 3 |         |         |
+| zkCNN       |        |         |         | Level 2 |
+| ZEN         |        |         |         |         |
+| VeriML      |        |         |         |         |
+| SPARK       |        | Level 3 | Level 3 |         |
+| GKR         |        | Level 2 |         | Level 2 |
+| Libra       |        |         |         |         |
+| Spartan     |        |         | Level 3 | Level 3 |
+| Virgo       |        |         | Level 3 | Level 3 |
+| Ligero      |        |         |         |         |
+| DIZK        |        | Level 1 | Level 3 |         |
+| ZKBoo       |        |         | Level 3 |         |
+| Aurora      |        |         | Level 3 |         |
+| Ligero++    |        |         |         |         |
+| Groth       |        |         |         |         |
+| BCCGP       |        |         |         |         |
+| Bulletproof |        |         |         |         |
+| STARK       |        |         |         |         |
+| BubbleRAM   |        |         |         |         |
+|             |        |         |         |         |
+|             |        |         |         |         |
+|             |        |         |         |         |
 
 
 
