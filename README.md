@@ -22,16 +22,16 @@
 
 ##### Linear PCP
 
-| title     | publication        | content | relations with other papers |
-| --------- | ------------------ | ------- | --------------------------- |
-| LinearPCP | CCC'07             | ...     | ...                         |
-| GGPR      | EUROCRYPT'13       | ...     | ...                         |
-| BCI+      | TCC'13             | ...     | ...                         |
-| PGHR      | S&P‘13             | ...     | ...                         |
-| Groth     | EUROCRYPT'16       | ...     | ...                         |
-| BCGTV     | CRYPTO'13          | ...     | ...                         |
-| BCTV      | USENIX Security'14 | ...     | ...                         |
-|           |                    |         |                             |
+| title     | publication        | content                                                      | relations with other papers |
+| --------- | ------------------ | ------------------------------------------------------------ | --------------------------- |
+| LinearPCP | CCC'07             | + This paper present a new proof system (Linear PCP) in which the prover need to provide a linear oracle that is not able to convince the verifier that a false statement is true. <br>+ This paper present how to construct a Linear PCP protocol based on Hadamard code and how to convert Linear PCP to Argument.<br>- Linear PCP based on Hademard code is not very efficient. The prover time is O($\s^2$), where s is the size of a circuit that testing the validity of witness with respect to statement. |                             |
+| GGPR      | EUROCRYPT'13       | ...                                                          | ...                         |
+| BCI+      | TCC'13             | ...                                                          | ...                         |
+| PGHR      | S&P‘13             | ...                                                          | ...                         |
+| Groth     | EUROCRYPT'16       | ...                                                          | ...                         |
+| BCGTV     | CRYPTO'13          | ...                                                          | ...                         |
+| BCTV      | USENIX Security'14 | ...                                                          | ...                         |
+|           |                    |                                                              |                             |
 
 ##### IOPs
 
@@ -66,6 +66,8 @@
 | Spartan | CRYPTO'20   | ...     | ...                         |
 |         |             | ...     | ...                         |
 
+
+
 ##### CRS
 
 | title      | publication  | content | relations with other papers |
@@ -76,8 +78,6 @@
 | Marlin     | EUROCRYPT'20 | ...     | ...                         |
 | SuperSonic | EUROCRYPT'20 | ...     | ...                         |
 |            |              | ...     | ...                         |
-
-
 
 #### Other
 
